@@ -1,0 +1,22 @@
+{
+  "name": "helpful-scripts",
+  "version": "1.0.0",
+  "description": "Helpful scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulongtan/helpful-scripts.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Yulong Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yulongtan/helpful-scripts/issues"
+  },
+  "homepage": "https://github.com/yulongtan/helpful-scripts#readme"
+}
