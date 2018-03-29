@@ -1,0 +1,11 @@
+Mapping: Thinking about abstract things in a graphic and practical way
+Motility: movement of real world phenomenon
+Pandemic: Widespread disease across the country/world
+Statistics: the practice or science of collecting and analyzing numerical data in large quantities
+Acute (disease): short-term
+Chronic (disease): long-term
+Disease: viral or bacterial infection that affects people
+Epidemic: Widespread disease across a community
+Health: absence of disease
+GIS: 
+Mapmaking: The process of transforming map thinking to a two-dimensional representation
