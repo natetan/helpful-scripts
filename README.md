@@ -20,3 +20,4 @@ term: definition
 ```
   
 Run `node index.js` to get a `definitions-sorted.txt`
+
